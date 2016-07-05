@@ -3,3 +3,6 @@ A - it creates .git directory.
 
 Q - How is the staging area different from the working directory and the repository? What value do you think it offers?
 A - staging area hold the files to be ready for makin the commit in the repository. 
+
+Q - How can you use the staging area to make sure you have one commit per logical change?
+A - by checking the differences between the files in the repository and staging area.
