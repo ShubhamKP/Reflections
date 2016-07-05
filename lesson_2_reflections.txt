@@ -9,3 +9,5 @@ A - by checking the differences between the files in the repository and staging 
 
 Q - What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A - when you want many different kind of changes into your file.
+
+Q - How do the diagrams help you visualize the branch structure?
